@@ -1,0 +1,266 @@
+[2025-02-18T12:58:17.218+0000] {processor.py:186} INFO - Started process (PID=65) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:58:17.219+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T12:58:17.220+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:58:17.220+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:58:17.232+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:58:17.256+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:58:17.256+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T12:58:17.267+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:58:17.267+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T12:58:17.280+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.066 seconds
+[2025-02-18T12:58:47.605+0000] {processor.py:186} INFO - Started process (PID=131) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:58:47.606+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T12:58:47.608+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:58:47.608+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:58:47.619+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:58:47.636+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:58:47.636+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T12:58:47.651+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:58:47.651+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T12:58:47.669+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.070 seconds
+[2025-02-18T12:59:18.477+0000] {processor.py:186} INFO - Started process (PID=197) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:59:18.477+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T12:59:18.479+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:59:18.479+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:59:18.489+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:59:18.501+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:59:18.500+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T12:59:18.510+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:59:18.510+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T12:59:18.523+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.051 seconds
+[2025-02-18T12:59:49.490+0000] {processor.py:186} INFO - Started process (PID=263) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:59:49.491+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T12:59:49.493+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:59:49.493+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:59:49.504+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T12:59:49.517+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:59:49.517+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T12:59:49.527+0000] {logging_mixin.py:190} INFO - [2025-02-18T12:59:49.526+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T12:59:49.542+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.057 seconds
+[2025-02-18T13:00:19.728+0000] {processor.py:186} INFO - Started process (PID=329) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:00:19.729+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:00:19.731+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:00:19.730+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:00:19.745+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:00:19.757+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:00:19.756+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:00:19.767+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:00:19.767+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:00:19.780+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.057 seconds
+[2025-02-18T13:00:50.803+0000] {processor.py:186} INFO - Started process (PID=395) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:00:50.804+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:00:50.806+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:00:50.805+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:00:50.816+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:00:50.828+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:00:50.828+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:00:50.839+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:00:50.839+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:00:50.853+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.053 seconds
+[2025-02-18T13:01:21.560+0000] {processor.py:186} INFO - Started process (PID=461) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:01:21.561+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:01:21.562+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:01:21.562+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:01:21.571+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:01:21.583+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:01:21.583+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:01:21.593+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:01:21.593+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:01:21.606+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.050 seconds
+[2025-02-18T13:01:51.763+0000] {processor.py:186} INFO - Started process (PID=527) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:01:51.764+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:01:51.766+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:01:51.766+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:01:51.776+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:01:51.790+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:01:51.789+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:01:51.801+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:01:51.801+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:01:51.815+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.055 seconds
+[2025-02-18T13:02:22.346+0000] {processor.py:186} INFO - Started process (PID=593) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:02:22.347+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:02:22.349+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:02:22.349+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:02:22.361+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:02:22.374+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:02:22.374+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:02:22.384+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:02:22.384+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:02:22.398+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.056 seconds
+[2025-02-18T13:02:52.765+0000] {processor.py:186} INFO - Started process (PID=659) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:02:52.766+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:02:52.767+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:02:52.767+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:02:52.779+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:02:52.793+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:02:52.793+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:02:52.803+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:02:52.802+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:02:52.815+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.055 seconds
+[2025-02-18T13:03:23.571+0000] {processor.py:186} INFO - Started process (PID=726) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:03:23.572+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:03:23.574+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:03:23.574+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:03:23.587+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:03:23.601+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:03:23.601+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:03:23.613+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:03:23.613+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:03:23.632+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.066 seconds
+[2025-02-18T13:03:54.153+0000] {processor.py:186} INFO - Started process (PID=793) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:03:54.154+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:03:54.156+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:03:54.155+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:03:54.166+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:03:54.180+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:03:54.179+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:03:54.191+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:03:54.191+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:03:54.206+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.057 seconds
+[2025-02-18T13:04:25.078+0000] {processor.py:186} INFO - Started process (PID=860) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:04:25.079+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:04:25.080+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:04:25.080+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:04:25.089+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:04:25.101+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:04:25.101+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:04:25.111+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:04:25.111+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:04:25.123+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.049 seconds
+[2025-02-18T13:04:55.593+0000] {processor.py:186} INFO - Started process (PID=927) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:04:55.593+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:04:55.595+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:04:55.595+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:04:55.605+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:04:55.617+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:04:55.617+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:04:55.627+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:04:55.626+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:04:55.639+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.051 seconds
+[2025-02-18T13:05:26.167+0000] {processor.py:186} INFO - Started process (PID=994) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:05:26.168+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:05:26.169+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:05:26.169+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:05:26.178+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:05:26.191+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:05:26.191+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:05:26.201+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:05:26.201+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:05:26.213+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.052 seconds
+[2025-02-18T13:05:56.927+0000] {processor.py:186} INFO - Started process (PID=1061) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:05:56.928+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:05:56.930+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:05:56.929+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:05:56.939+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:05:56.952+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:05:56.951+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:05:56.961+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:05:56.961+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:05:56.974+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.051 seconds
+[2025-02-18T13:06:27.019+0000] {processor.py:186} INFO - Started process (PID=1128) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:06:27.020+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:06:27.021+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:06:27.021+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:06:27.030+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:06:27.042+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:06:27.042+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:06:27.052+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:06:27.052+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:06:27.064+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.050 seconds
+[2025-02-18T13:06:57.808+0000] {processor.py:186} INFO - Started process (PID=1195) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:06:57.809+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:06:57.811+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:06:57.811+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:06:57.823+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:06:57.838+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:06:57.838+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:06:57.849+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:06:57.849+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:06:57.863+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.060 seconds
+[2025-02-18T13:07:28.326+0000] {processor.py:186} INFO - Started process (PID=1262) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:07:28.327+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:07:28.329+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:07:28.329+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:07:28.339+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:07:28.352+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:07:28.352+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:07:28.362+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:07:28.362+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:07:28.375+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.053 seconds
+[2025-02-18T13:07:58.612+0000] {processor.py:186} INFO - Started process (PID=1329) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:07:58.613+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:07:58.615+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:07:58.615+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:07:58.626+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:07:58.638+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:07:58.638+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:07:58.648+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:07:58.648+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:07:58.660+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.053 seconds
+[2025-02-18T13:08:29.520+0000] {processor.py:186} INFO - Started process (PID=1396) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:08:29.521+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:08:29.523+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:08:29.522+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:08:29.532+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:08:29.544+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:08:29.544+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:08:29.555+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:08:29.555+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:08:29.570+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.053 seconds
+[2025-02-18T13:09:00.083+0000] {processor.py:186} INFO - Started process (PID=1463) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:09:00.084+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:09:00.086+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:09:00.086+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:09:00.096+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:09:00.109+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:09:00.108+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:09:00.118+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:09:00.118+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:09:00.131+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.052 seconds
+[2025-02-18T13:09:30.915+0000] {processor.py:186} INFO - Started process (PID=1531) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:09:30.916+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:09:30.917+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:09:30.917+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:09:30.927+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:09:30.939+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:09:30.939+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:09:30.949+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:09:30.949+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:09:30.962+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.051 seconds
+[2025-02-18T13:10:01.589+0000] {processor.py:186} INFO - Started process (PID=1598) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:10:01.589+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:10:01.591+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:10:01.591+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:10:01.601+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:10:01.613+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:10:01.613+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:10:01.624+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:10:01.623+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:10:01.638+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.054 seconds
+[2025-02-18T13:10:32.278+0000] {processor.py:186} INFO - Started process (PID=1665) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:10:32.279+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:10:32.280+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:10:32.279+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:10:32.289+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:10:32.302+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:10:32.302+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:10:32.312+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:10:32.312+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:10:32.325+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.051 seconds
+[2025-02-18T13:11:02.954+0000] {processor.py:186} INFO - Started process (PID=1732) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:11:02.955+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:11:02.955+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:11:02.955+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:11:02.964+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:11:02.977+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:11:02.977+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:11:02.987+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:11:02.987+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:11:02.999+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.050 seconds
+[2025-02-18T13:11:33.675+0000] {processor.py:186} INFO - Started process (PID=1799) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:11:33.676+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:11:33.677+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:11:33.677+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:11:33.688+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:11:33.700+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:11:33.700+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:11:33.710+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:11:33.710+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:11:33.726+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.054 seconds
+[2025-02-18T13:12:03.961+0000] {processor.py:186} INFO - Started process (PID=1866) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:12:03.962+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:12:03.963+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:12:03.963+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:12:03.972+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:12:03.987+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:12:03.987+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:12:04.001+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:12:04.000+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:12:04.017+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.060 seconds
+[2025-02-18T13:12:34.279+0000] {processor.py:186} INFO - Started process (PID=1933) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:12:34.280+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:12:34.281+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:12:34.281+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:12:34.290+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:12:34.303+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:12:34.302+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:12:34.313+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:12:34.312+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:12:34.326+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.052 seconds
+[2025-02-18T13:13:04.781+0000] {processor.py:186} INFO - Started process (PID=2001) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:13:04.782+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:13:04.783+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:13:04.783+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:13:04.792+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:13:04.806+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:13:04.806+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:13:04.816+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:13:04.816+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:13:04.829+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.052 seconds
+[2025-02-18T13:13:35.060+0000] {processor.py:186} INFO - Started process (PID=2069) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:13:35.061+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:13:35.063+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:13:35.062+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:13:35.072+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:13:35.088+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:13:35.087+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:13:35.101+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:13:35.101+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:13:35.116+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.060 seconds
+[2025-02-18T13:14:05.537+0000] {processor.py:186} INFO - Started process (PID=2136) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:14:05.538+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:14:05.539+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:14:05.539+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:14:05.548+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:14:05.561+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:14:05.561+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:14:05.573+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:14:05.573+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:14:05.586+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.053 seconds
+[2025-02-18T13:14:35.857+0000] {processor.py:186} INFO - Started process (PID=2203) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:14:35.858+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:14:35.859+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:14:35.859+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:14:35.868+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:14:35.883+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:14:35.882+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:14:35.894+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:14:35.894+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:14:35.907+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.054 seconds
+[2025-02-18T13:15:06.281+0000] {processor.py:186} INFO - Started process (PID=2270) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:15:06.282+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:15:06.283+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:15:06.283+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:15:06.293+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:15:06.306+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:15:06.306+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:15:06.318+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:15:06.317+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:15:06.330+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.053 seconds
+[2025-02-18T13:15:36.651+0000] {processor.py:186} INFO - Started process (PID=2337) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:15:36.652+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:15:36.653+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:15:36.653+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:15:36.664+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:15:36.678+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:15:36.678+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:15:36.689+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:15:36.689+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:15:36.702+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.056 seconds
+[2025-02-18T13:16:07.056+0000] {processor.py:186} INFO - Started process (PID=2404) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:16:07.057+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:16:07.058+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:16:07.058+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:16:07.070+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:16:07.086+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:16:07.086+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:16:07.100+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:16:07.100+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:16:07.115+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.065 seconds
+[2025-02-18T13:16:37.446+0000] {processor.py:186} INFO - Started process (PID=2471) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:16:37.446+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:16:37.447+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:16:37.447+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:16:37.458+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:16:37.471+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:16:37.471+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:16:37.482+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:16:37.482+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:16:37.495+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.055 seconds
+[2025-02-18T13:17:08.111+0000] {processor.py:186} INFO - Started process (PID=2538) to work on /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:17:08.112+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/load_to_dds.py for tasks to queue
+[2025-02-18T13:17:08.113+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:17:08.112+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:17:08.123+0000] {processor.py:925} INFO - DAG(s) 'data_transfer_dag' retrieved from /opt/airflow/dags/load_to_dds.py
+[2025-02-18T13:17:08.138+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:17:08.137+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-18T13:17:08.150+0000] {logging_mixin.py:190} INFO - [2025-02-18T13:17:08.150+0000] {dag.py:4180} INFO - Setting next_dagrun for data_transfer_dag to None, run_after=None
+[2025-02-18T13:17:08.165+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/load_to_dds.py took 0.058 seconds
