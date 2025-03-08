@@ -25,14 +25,12 @@ POSTGRES_CONFIG = {
     'port': Variable.get('postgres_port')
 }
 
-MONGO_URI = "mongodb://root:example@salon-mongodb-1:27017/"
-MONGO_DB = "salon_row"
+MONGO_URI = Variable.get('MONGO_URI')
+MONGO_DB = Variable.get('MONGO_DB')
 
-PG_HOST = "host.docker.internal"
-PG_PORT = "5432"
-PG_DB = "postgres"
-PG_USER = "postgres"
-PG_PASSWORD = "2305"
+# MONGO_URI = "mongodb://root:example@salon-mongodb-1:27017/"
+# MONGO_DB = "salon_row"
+
 
 # Универсальная функция для выполнения SQL-запроса
 def load_to_db(conn_info, file_path, table_name):
@@ -78,7 +76,7 @@ def remove_cycles(obj, seen=None):
 
 def get_last_batch_date(workflow_key):
     try:
-        conn = psycopg2.connect(dbname=PG_DB, user=PG_USER, password=PG_PASSWORD, host=PG_HOST, port=PG_PORT)
+        conn = psycopg2.connect(dbname=POSTGRES_CONFIG['database'], user=POSTGRES_CONFIG['user'], password=POSTGRES_CONFIG['password'], host=POSTGRES_CONFIG['host'], port=POSTGRES_CONFIG['port'])
         cursor = conn.cursor()
         cursor.execute("""
             SELECT last_batch_date FROM staging_beauty_salon.srv_wf_settings WHERE workflow_key = %s
@@ -107,7 +105,7 @@ def save_to_postgresql(docs, table_name, date_field, workflow_key):
         logger.warning(f"Нет новых данных для {table_name}.")
         return
     try:
-        conn = psycopg2.connect(dbname=PG_DB, user=PG_USER, password=PG_PASSWORD, host=PG_HOST, port=PG_PORT)
+        conn = psycopg2.connect(dbname=POSTGRES_CONFIG['database'], user=POSTGRES_CONFIG['user'], password=POSTGRES_CONFIG['password'], host=POSTGRES_CONFIG['host'], port=POSTGRES_CONFIG['port'])
         cursor = conn.cursor()
         last_batch_date = docs[0].get(date_field)
         for doc in docs:
